@@ -1,0 +1,16 @@
+.portfolio {
+    margin: auto;
+    text-align: center;
+}
+
+.description {
+    text-align: left;   
+}
+
+div {
+    border: 1px solid #000;
+}
+
+p {
+    margin: 5px;
+}
